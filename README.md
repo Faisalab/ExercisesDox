@@ -5,6 +5,7 @@ Hello, I had a great time doing these challenges. So, I did exercise one using t
 inline.html
 internal.html
 ```
+The file containing exercise two is ```html errors.html```
 
 Some of the fonts in the word doc were a bit tricky with regard to superscripts and whether they were also bolded. The superscripts looked different between the provided exercise file and the sample preview file. Ultimately, I saw the underlines were bolded in the sample so I followed accordingly.
 
