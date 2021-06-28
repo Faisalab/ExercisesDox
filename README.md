@@ -9,10 +9,10 @@ The file containing exercise two is ```errors.html```
 
 Some of the fonts in the word doc were a bit tricky with regard to superscripts and whether they were also bolded. The superscripts looked different between the provided exercise file and the sample preview file. Ultimately, I saw the underlines were bolded in the sample so I followed accordingly.
 
-### Here is a screenshot of the provided ___exercise file_ ###
+### Here is a screenshot of the provided _exercise file_ ###
 ![treatments](https://user-images.githubusercontent.com/49412002/123691627-dab9d980-d823-11eb-9eca-80e919f725db.png)
 
-### This screenshot is the ___sample preview_ ###
+### This screenshot is the _sample preview_ ###
 ![treatments_sample](https://user-images.githubusercontent.com/49412002/123690414-587ce580-d822-11eb-9019-c5b07a863474.png)
 
 For the font sizing, I looked into the conversion of Microsoft Word pt to css units.
