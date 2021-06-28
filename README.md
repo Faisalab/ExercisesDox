@@ -18,6 +18,6 @@ Some of the fonts in the word doc were a bit tricky with regard to superscripts 
 For the font sizing, I looked into the conversion of Microsoft Word pt to css units.
 I also know Microsoft Word has some inner quirks like the spacing when creating bulleted lists, but I did my best to follow suit!
 
-#### I very much appreciate the opportunity and sincerely hope to hear back!####
+#### I very much appreciate the opportunity and sincerely hope to hear back! ####
 
 
